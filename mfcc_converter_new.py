@@ -1,4 +1,5 @@
-# this is new mfcc converter earlier one had a significant error that it was creating mulptiple copies of data for training and testing which during taining phase broke the model
+# this is new mfcc converter earlier one had a significant error that it was creating mulptiple copies of data for training and testing which during taining phase broke the model , but this one 
+# different as it already have train and testing data separated so it only make convert them into numerical features and do not break model during training phase 
 
 
 
