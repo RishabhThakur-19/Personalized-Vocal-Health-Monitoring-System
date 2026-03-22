@@ -1,3 +1,7 @@
+# this is new mfcc converter earlier one had a significant error that it was creating mulptiple copies of data for training and testing which during taining phase broke the model
+
+
+
 import os
 import glob
 import librosa
