@@ -6,6 +6,12 @@ import soundfile as sf
 from sklearn.model_selection import train_test_split
 from tqdm import tqdm
 
+
+
+# A new adder function which add noise into the dataset , but first split the data into trainig and testing , so that during trainig proper accuracy can be achievd
+
+# it only adds noise in the training dataset ,and keep the validation with original data . This ensure that no duplicate data in the training , prevent overfitting
+
 # PATHS
 
 
