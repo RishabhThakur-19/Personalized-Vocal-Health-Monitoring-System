@@ -1,0 +1,3 @@
+use the Augmented data in mfcc_converter_new.py program and start extracting
+
+[NOTE : this process can take very long time as there is more than 1 lakh records]

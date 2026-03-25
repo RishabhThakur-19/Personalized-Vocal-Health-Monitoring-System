@@ -1,0 +1,3 @@
+use the noise_adder_new.py to get the Augmented data
+
+[NOTE : please select the location in program according to you , as it may result in error]
